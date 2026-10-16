@@ -21,7 +21,7 @@ Contexto do projeto para agentes (Claude Code no VS Code / CLI).
 - Stack: HTML + CSS + JS puros, sem build. `index.html`, `assets/css/style.css` (tokens em `:root`, mobile-first, breakpoints 640/960px), `assets/js/main.js`.
 - A página atual é um **esqueleto genérico** (azul-marinho/dourado, conteúdo placeholder). Será redesenhada após a análise de referências — não tratar o layout atual como definitivo.
 - Conteúdo placeholder: números do hero, depoimentos, e-mail/telefone, nomes dos 4 pilares. Não publicar sem dados reais.
-- Branch de trabalho: `claude/4-pilares-website-katkgx`.
+- Branch de trabalho: **somente `main`**. Não criar branches novas; commitar e fazer push direto na `main`. Em sessões cloud (que criam `claude/...` automaticamente), fazer merge na `main` ao final.
 
 ## Preferências do usuário (desenvolvedor)
 
