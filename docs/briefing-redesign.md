@@ -18,8 +18,10 @@
 | Papel | URL |
 |---|---|
 | Site atual | https://4pilares.com.br/ |
-| Referência 1 (da dona) | https://share.google/v0qMVpep6mmom408X |
-| Referência 2 (da dona) | https://share.google/mHeW0cv6DdDYnsaFT |
+| Referência 1 (da dona) | https://share.google/v0qMVpep6mmom408X → **https://www.akeo.com/** |
+| Referência 2 (da dona) | https://share.google/mHeW0cv6DdDYnsaFT → **https://www.agenciafante.com.br/** |
+
+> Análise concluída em `docs/analise-referencias.md` (16/10/2026).
 
 Os links `share.google` são redirecionadores — abrir no navegador e registrar a URL final aqui.
 
